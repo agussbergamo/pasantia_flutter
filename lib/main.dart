@@ -1,5 +1,5 @@
-import 'package:agustina_tmdb/detail_rich_text.dart';
-import 'package:agustina_tmdb/ui_constants.dart';
+import 'detail_rich_text.dart';
+import 'ui_constants.dart';
 import 'package:flutter/material.dart';
 import 'movie.dart';
 
